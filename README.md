@@ -1,5 +1,20 @@
-## Hi 👋
+# 👋 Hi there — I’m Andrii (lutdev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lutdev&show_icons=true&theme=transparent)
+**PHP Developer**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutdev&layout=compact)
+---
+
+## 🔧 What I do
+
+- Build scalable backend solutions using **PHP** (and related tech).  
+- Write clean, maintainable code — with a focus on quality and simplicity.  
+
+---
+
+## 💡 Philosophy & What Drives Me
+
+> “Make code simple, reliable, and maintainable.”  
+
+I believe clean code is more than just working — it’s about readability, future-proofing and respect for fellow developers.  
+I enjoy digging into tasks: from small utilities and CLI tools to larger integrations and backend services.  
+I’m always open to collaboration, code reviews and learning new technologies.
