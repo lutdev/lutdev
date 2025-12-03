@@ -20,3 +20,6 @@ I enjoy digging into tasks: from small utilities and CLI tools to larger integra
 I’m always open to collaboration, code reviews and learning new technologies.
 
 [![Andrii Lutskevych profile views](https://u8views.com/api/v1/github/profiles/9608305/views/day-week-month-total-count.svg)](https://u8views.com/github/lutdev)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lutdev&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lutdev&theme=nord_bright)
