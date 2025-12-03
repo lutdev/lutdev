@@ -18,3 +18,5 @@
 I believe clean code is more than just working — it’s about readability, future-proofing and respect for fellow developers.  
 I enjoy digging into tasks: from small utilities and CLI tools to larger integrations and backend services.  
 I’m always open to collaboration, code reviews and learning new technologies.
+
+[![Andrii Lutskevych profile views](https://u8views.com/api/v1/github/profiles/9608305/views/day-week-month-total-count.svg)](https://u8views.com/github/lutdev)
